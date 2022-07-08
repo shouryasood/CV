@@ -24,6 +24,9 @@ h3{
     font-family: 'Montserrat', sans-serif;
     color: #11999E;
 }
+tr{
+  font-family: 'Montserrat', sans-serif;
+}
 p {
     line-height: 2;
   }
@@ -80,11 +83,21 @@ div{
 .bottom-cloud{
     position: absolute;
     left: 250px;
-    top: 360px;
+    top: 390px;
+}
+.cloud3{
+    position: absolute;
+    left: 50px;
+    top: 200px;
+}
+.cloud4{
+    position: absolute;
+    right: 50px;
+    top: 245px;
 }
 .top-cloud{
     position: absolute;
-    right: 300px;
+    right: 600px;
     top: 40px;
 }
 .mountain{
