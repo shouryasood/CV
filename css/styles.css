@@ -71,7 +71,9 @@ div{
     position: relative;
     padding-top: 100px;
   }
-  
+.container-fluid{
+  margin-top: 0%;
+}
 .middle-container {
     margin: 0 0;
   }
@@ -88,7 +90,7 @@ div{
 .cloud3{
     position: absolute;
     left: 50px;
-    top: 200px;
+    top: 100px;
 }
 .cloud4{
     position: absolute;
