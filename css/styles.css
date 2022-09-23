@@ -59,6 +59,7 @@ div{
     width: 30px;
 }
 .topnav {
+    
     font-size: 150%;
     color: #0D47A1;
     width: 100%;
@@ -237,4 +238,17 @@ div{
     0% { background-position: 0 0; }
     50% { background-position: 400% 0; }
     100% { background-position: 0 0; }
+}
+
+.p{
+  padding: 100px;
+}
+
+
+.pp{
+  width: 250px;
+  height: 250px;
+  border-radius: 50%;
+  object-fit: cover;
+  object-position: center right;
 }
