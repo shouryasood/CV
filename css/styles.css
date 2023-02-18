@@ -29,7 +29,7 @@ nav a {
 }
 
 nav a:hover {
-  color: #2196f3;
+  color: #d9ccd1;
 }
 
 nav .logo {
@@ -40,47 +40,10 @@ nav .logo {
 }
 
 nav .logo:hover {
-  color: #2196f3;
+  color: #d9ccd1;
 }
 
-nav .search-bar {
-  display: flex;
-  align-items: center;
-  border: 1px solid #ffffff;
-  border-radius: 4px;
-  padding: 0.2rem 0.5rem;
-  margin-right: 1rem;
-  background-color: #2196f3;
-}
 
-nav .search-bar input[type="text"] {
-  border: none;
-  outline: none;
-  font-size: 1rem;
-  width: 15rem;
-  padding: 0.2rem 0.5rem;
-  margin-left: 0.5rem;
-  color: #ffffff;
-  background-color: transparent;
-}
-
-nav .search-bar button {
-  background-color: #ffffff;
-  color: #2196f3;
-  border: none;
-  outline: none;
-  font-size: 1rem;
-  font-weight: 700;
-  padding: 0.2rem 0.5rem;
-  border-radius: 4px;
-  cursor: pointer;
-  transition: all 0.2s ease-in-out;
-}
-
-nav .search-bar button:hover {
-  background-color: #e5e5e5;
-  color: #2196f3;
-}
 
 h1{
     color: #0D47A1;
